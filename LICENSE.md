@@ -19,4 +19,4 @@ Die vorliegende Lizenz regelt die Nutzung des Website-Codes, der im Folgenden al
 
 Durch die Verwendung des Codes erklärt sich der Nutzer mit den Bedingungen dieser Lizenz einverstanden.
 
-(Autorname) - Alle Rechte vorbehalten.
+LRLP  - Alle Rechte vorbehalten.
